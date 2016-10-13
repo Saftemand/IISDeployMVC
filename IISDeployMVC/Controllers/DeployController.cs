@@ -345,16 +345,6 @@ namespace IISDeployMVC.Controllers
             return result.OverallResult == BuildResultCode.Success;
         }
 
-        //private bool compileCSharpFromCommandline()
-        //{
-        //    string command = string.Format("msbuild {0}", ConfigurationManager.AppSettings[_buildCsProj]);
-
-        //    string result = executeCommandInTerminal(command);
-
-        //    Debug.WriteLine("Compile C# from commandline");
-        //    return false;
-        //}
-
         private string executeCommandInTerminal(string command)
         {
             ProcessStartInfo start = new ProcessStartInfo("cmd.exe ", "/c " + command);
