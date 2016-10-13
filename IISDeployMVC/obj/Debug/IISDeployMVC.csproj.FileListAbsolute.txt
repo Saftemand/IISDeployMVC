@@ -20,3 +20,25 @@ C:\Users\Michael\documents\visual studio 2013\Projects\IISDeployMVC\IISDeployMVC
 C:\Users\Michael\documents\visual studio 2013\Projects\IISDeployMVC\IISDeployMVC\obj\Debug\IISDeployMVC.dll
 C:\Users\Michael\documents\visual studio 2013\Projects\IISDeployMVC\IISDeployMVC\obj\Debug\IISDeployMVC.pdb
 C:\Users\Michael\documents\visual studio 2013\Projects\IISDeployMVC\IISDeployMVC\obj\Debug\IISDeployMVC.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\obj\Debug\IISDeployMVC.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\obj\Debug\IISDeployMVC.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\obj\Debug\IISDeployMVC.pdb
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\IISDeployMVC.dll.config
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\IISDeployMVC.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\IISDeployMVC.pdb
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\Newtonsoft.Json.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\System.Web.Helpers.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\System.Web.Mvc.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\System.Web.Razor.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\System.Web.WebPages.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\Newtonsoft.Json.xml
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\System.Web.Helpers.xml
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\System.Web.Mvc.xml
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\System.Web.Razor.xml
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\System.Web.WebPages.xml
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC\bin\System.Web.WebPages.Razor.xml

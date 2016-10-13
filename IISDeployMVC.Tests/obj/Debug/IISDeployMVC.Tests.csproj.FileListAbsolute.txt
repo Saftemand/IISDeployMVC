@@ -22,3 +22,27 @@ c:\users\michael\documents\visual studio 2013\Projects\IISDeployMVC\IISDeployMVC
 c:\users\michael\documents\visual studio 2013\Projects\IISDeployMVC\IISDeployMVC.Tests\obj\Debug\IISDeployMVC.Tests.csprojResolveAssemblyReference.cache
 c:\users\michael\documents\visual studio 2013\Projects\IISDeployMVC\IISDeployMVC.Tests\obj\Debug\IISDeployMVC.Tests.dll
 c:\users\michael\documents\visual studio 2013\Projects\IISDeployMVC\IISDeployMVC.Tests\obj\Debug\IISDeployMVC.Tests.pdb
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\IISDeployMVC.Tests.dll.config
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\IISDeployMVC.Tests.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\IISDeployMVC.Tests.pdb
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\IISDeployMVC.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\IISDeployMVC.pdb
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\obj\Debug\IISDeployMVC.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\obj\Debug\IISDeployMVC.Tests.dll
+C:\Users\Michael\Desktop\Repos\continuous-deployment\IISDeployMVC\IISDeployMVC.Tests\obj\Debug\IISDeployMVC.Tests.pdb
